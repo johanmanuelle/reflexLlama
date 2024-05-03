@@ -1,10 +1,10 @@
-# SOA IA Una IA basada en tinyllama y fastA en su backend y su frontend en Reflex
+# SOA IA Una IA basada en tinyllama y fastAPI en su backend y su frontend en Reflex
 
 este es un proyecto opensource creado para la comunidad de mouredev y para mi portafolio personal
 
 # Primeros Pasos
 
-lo unico que debes hacer es visitar la pagina oficial de ollama y seguir las instrucciones para usar esta ia en tu backend
+lo unico que debes hacer es visitar la pagina oficial de ollama y seguir las instrucciones para usar esta IA en tu backend
 
 # Caracteristicas
 
